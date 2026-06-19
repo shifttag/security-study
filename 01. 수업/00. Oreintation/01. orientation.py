@@ -19,7 +19,8 @@ FTP Client - winscp(필요 용량이 적다)
 
 winscp 접속 (ftp 접속)
       - 192.168.10.11
-      - ast / zaqxsw123
+      - ast / zaqxsw123 -> ast22 / aq12 로 접속
+      
 
 /home2/ast/
 root -> home2 -> ast 디렉토리
