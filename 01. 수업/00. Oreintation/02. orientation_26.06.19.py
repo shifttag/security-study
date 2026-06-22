@@ -36,7 +36,7 @@ Network core
 
 정보보안 3대 요소
 - 기밀성
-- 무경성
+- 무결성
 - 가용성
 
 클라우드
@@ -63,9 +63,15 @@ User Experience Settings에서 둘다 체크 해제
 
 
 ### 네트워크 설명 ###
+C:\ | d:\ 두가지는 root 디렉토리이다
+백업 할 때 C:\ 디렉토리 아래에 DD 디렉토리를 생성하여
+D:\ 디렉토리랑 DD 디렉토리랑 마운트
 
+1. IP Adrress
+2. subnetmask
+3. gateway
 
-
+- 네트워크 주소가 일치하는 system과만 연결 가능 (IP, netmask)
 
 
 
