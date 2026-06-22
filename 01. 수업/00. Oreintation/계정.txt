@@ -1,0 +1,11 @@
+계정
+
+일련번호 : ast22
+ip 주소 : 205 ~ 209
+netmask : 255.255.255.0
+gateway : 192.168.10.1
+DNS : 8.8.8.8
+	192.168.10.11
+
+dal server : 192.168.10.11
+(http, ftp, samba, oracle, DNS)
