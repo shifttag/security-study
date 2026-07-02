@@ -104,7 +104,7 @@ cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
 계정:패스워드:UID:GID:설명:홈디렉토리:쉘
 
-cat /etc/passwd
+cat /etc/group
 root:x:0:
 그룹명:암호:GID:소속계정
 
