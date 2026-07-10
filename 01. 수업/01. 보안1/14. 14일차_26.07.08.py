@@ -62,6 +62,7 @@ neighbor relation
 윈도우는 master browser 선정 master 브라우저에 리소스를 던짐
 (마스터 - 슬레이브 형태)
 
+
 OSPF의 Neighbor와 인접 관계(Adjacency)는 동일한 의미가 아니다.
 - neighbor 라우터 중에 인접관계인 라우터와 LSA를 교환한다
 - adjancency는 DR(BDR)과 IR간에 이뤄진다
