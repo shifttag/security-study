@@ -1,0 +1,72 @@
+R0 =====
+enable
+conf t
+hostname R0
+no ip domain-lookup
+int g1/0
+  ip add 10.1.1.9 255.255.255.0
+  no sh
+int g2/0
+  ip add 20.1.1.9 255.255.255.0
+  no sh
+int g3/0
+  ip add 30.1.1.9 255.255.255.0
+  no sh
+int g4/0
+  ip add 40.1.1.9 255.255.255.0
+  no sh
+
+R1 ============
+enable
+conf t
+hostname R1
+no ip domain-lookup
+int g0/0
+  ip add 1.1.1.1 255.255.255.0
+  no sh
+int g0/1
+  ip add 10.1.1.1 255.255.255.0
+  no sh
+
+R2 ============
+enable
+conf t
+hostname R2
+no ip domain-lookup
+int g0/0
+  ip add 2.2.2.1 255.255.255.0
+  no sh
+int g0/1
+  ip add 20.1.1.2 255.255.255.0
+  no sh
+
+R3 ============
+enable
+conf t
+hostname R3
+no ip domain-lookup
+int g0/0
+  ip add 3.3.3.1 255.255.255.0
+  no sh
+int g0/1
+  ip add 30.1.1.3 255.255.255.0
+  no sh
+
+R4 ============
+enable
+conf t
+hostname R4
+no ip domain-lookup
+int g0/0
+  ip add 4.4.4.1 255.255.255.0
+  no sh
+int g0/1
+  ip add 40.1.1.4 255.255.255.0
+  no sh
+
+
+
+
+
+
+
