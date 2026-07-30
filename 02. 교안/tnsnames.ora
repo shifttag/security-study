@@ -1,0 +1,84 @@
+dal =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.11)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+
+oracle =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.11)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st01 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.103)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st02 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.113)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st03 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.123)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st04 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.133)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st05 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.143)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st06 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.153)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st07 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.163)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st08 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.173)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st09 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.183)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st10 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.193)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st11 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.203)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
+st12 =
+    (DESCRIPTION =
+      (ADDRESS = (PROTOCOL = tcp)(HOST = 192.168.10.33)(port = 1521))
+      (CONNECT_DATA = (SID = DB19))
+    )
+   
